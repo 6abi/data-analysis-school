@@ -4,6 +4,8 @@
 <h2 align="center"> 🧾 Descrição do Projeto</h2>
 <p align="left">Análise da base de dados de cadastro de alunos, usando dados públicos. </p>
 <p align="left">Dados dos nomes disponiveis no site do IBGE: <a href="https://servicodados.ibge.gov.br/api/docs/nomes?versao=2" target="_blank" align = "center">API IBGE nomes</a> </p>
+<p align="left">Dados dos cursos disponiveis no site : <a href="http://tabela-cursos.herokuapp.com/index.html" target="_blank" align = "center">tabela de cursos</a> </p>
+
  <!-- Status do projeto -->
  <h2 align="center"> ⁉ Status </h2>
 <h4 align="center"> 
