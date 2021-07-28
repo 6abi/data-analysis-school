@@ -9,7 +9,7 @@
  <!-- Status do projeto -->
  <h2 align="center"> ⁉ Status </h2>
 <h4 align="center"> 
-	 🚧 Teste API MyFlix 🚀 Em contrução...  🚧
+	 🚧 Teste API MyFlix - Em contrução...  🚧
 </h4>
 
 
